@@ -2,4 +2,4 @@
 
 Hi people,
 
-A good day consists of JavaScript and tastey food, espesically BBQ.
+A good day consists of jQuery and tastey food, espesically BBQ.
